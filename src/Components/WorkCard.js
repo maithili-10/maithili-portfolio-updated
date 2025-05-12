@@ -16,8 +16,10 @@ const WorkCard = (props) => {
                 <div className="pro-details">
                   <p> {props.text}</p>
                   <div className="pro-btns">
-                    <NavLink onClick={() => setVisible(true)} className="btn">View</NavLink>
-                    <NavLink  className="btn">Source</NavLink>
+                  <NavLink to={props.view} target="_blank" rel="noopener noreferrer" className="btn">
+  View
+</NavLink>
+
                   </div>
                  
                 </div>

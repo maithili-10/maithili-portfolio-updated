@@ -22,16 +22,7 @@ const Footer = () => {
             <h4><FaMailBulk size={20} style={{ color: "#fff", marginRight: "2rem" }}/>angajalamaithiliraj@gmail.com</h4>
           </div>
         </div>
-        <div className="right">
-<h4>sdgfshfgs dfgs dsgds</h4>
-<p>Lorem ufughb kfhjsdhf hfjn jhfj fd fjd .</p>
-<div className="social">
-<FaFacebook size={20} style={{ color: "#fff", marginRight: "2rem" }} />
-<FaTwitter size={20} style={{ color: "#fff", marginRight: "2rem" }} />
-<FaLinkedin size={20} style={{ color: "#fff", marginRight: "2rem" }} />
-</div>
-        </div>
-      </div>
+            </div>
     </div>
   );
 };

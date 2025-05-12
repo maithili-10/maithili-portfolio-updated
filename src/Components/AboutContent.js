@@ -10,7 +10,7 @@ const AboutContent = () => {
     <div className="about">
         <div className="left">
             <h1>Who Am I??</h1>
-            <p>I 'm a react front-end developer .I create responsive secure websites for my clients.</p>
+            <p>I'm a full-stack web developer with expertise in React for front-end and Node.js for back-end, creating responsive, secure, and high-performance websites for my clients.</p>
             <Link to="/contact"><button className="btn">Contact</button></Link>
         </div>
         <div className="right">
